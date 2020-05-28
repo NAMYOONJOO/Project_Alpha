@@ -10,9 +10,9 @@
 <body>
 
 <header>
-
+이건 헤더입니다.
 </header>
-<article></article>
-<footer></footer>
+<article>본문입니다.</article>
+<footer>푸터입니다.</footer>
 </body>
 </html>
